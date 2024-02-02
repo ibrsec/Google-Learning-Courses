@@ -29,7 +29,7 @@ nav img {
 }
 
 button {
-  border: 2px solid var(--red-dark);
+  border: 2px solid var(--blue-3);
   padding: 1rem 1.2rem;
   border-radius: 5px;
   box-shadow: var(--shadow-light);
@@ -43,12 +43,16 @@ button {
   opacity: 0.9;
 }
 .btn-light {
-  color: var(--red-dark);
+  color: var(--blue-3);
   background-color: var(--white);
 }
 .btn-dark {
-  background-color: var(--red-dark);
+  background-color: var(--blue-3);
   color: var(--white);
+}
+button a{
+  color: var(--white);
+  text-decoration: none;
 }
 
 header.hero {
