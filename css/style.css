@@ -39,7 +39,7 @@ button {
   cursor: pointer;
   font-size: var(--fs-lg);
 }
-.section-btn button:hover {
+button:hover {
   opacity: 0.9;
 }
 .btn-light {
