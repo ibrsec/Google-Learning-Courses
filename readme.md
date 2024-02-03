@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ibrsec/Google-Learning-Courses/issues">
+  <a href="https://github.com/ibrsec/Google-Learning-Courses/">
     <img src="images/logo.png" alt="Logo" width="200" >
   </a>
 
