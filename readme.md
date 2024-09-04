@@ -16,7 +16,7 @@
     <a href="https://github.com/ibrsec/Google-Learning-Courses"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/Google-Learning-Courses/">View Demo</a>
+    <a href="https://google-learning-courses.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/Google-Learning-Courses/issues">Report Bug</a>
     ·
@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Google Learning](./images/p.gif)](https://ibrsec.github.io/Google-Learning-Courses/)
+[![Google Learning](./images/p.gif)](https://google-learning-courses.vercel.app/)
 
 
 
